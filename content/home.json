@@ -8,28 +8,58 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "img": "/img/uploads/sej-a-bem-vindo-1-compressed.jpg",
+          "link": "",
+          "alt": "Bem vindo"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/sej-a-bem-vindo-2-compressed.jpg",
+          "alt": "Primeira loja virtual desde 2013"
+        },
+        {
+          "img": "/img/uploads/sej-a-bem-vindo-1.png",
+          "link": "",
+          "alt": "Loja virtual"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/sej-a-bem-vindo-5.png",
+          "alt": "Cupom de primeira compra"
         }
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/CORRETO23.png",
+          "mobile_img": "/img/uploads/FACHADA-CELULAR-COELHANDIA.png",
+          "link": "/"
+        }
+      ]
     },
     {
-      "type": "collection-shelf",
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/fenosbanner.png",
+          "link": "/"
+        },
+        {
+          "img": "/img/uploads/petiscosbanner.png",
+          "link": "/"
+        },
+        {
+          "img": "/img/uploads/higienebanner.png",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "type": "dynamic-showcase",
       "shuffle": true,
       "collection_id": null,
       "sort": "offers",
@@ -37,11 +67,6 @@
       "headless": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }
