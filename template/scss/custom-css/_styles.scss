@@ -73,3 +73,9 @@
         padding-top: 1px;
     }
 }
+
+@media(max-width: 767px) {
+    .topo {
+        display: none !important;
+    }
+}
