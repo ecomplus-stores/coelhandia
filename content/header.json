@@ -4,13 +4,19 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/alimentacao/?Alimentação",
+      "/petiscos/?Petiscos",
+      "/brinquedos/?Brinquedos",
+      "/acessorios/?Acessórios",
+      "/higiene/?Higiene",
+      "/coelhoucos/?Coelhoucos"
+    ],
     "random": 6,
     "full_width": false
   },
