@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c7e9e3a83192b8a1de2659d6915e675e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.bf249bc00e55d07567f90a5de49a5ec2.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.2815c1eec5e00056f3386a9ca417f4a5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.36431d52f66726cdb58bbd223a519029.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.6d5342b70a8aa7e6b4944b5627ea0977.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "coelhandia",
+  "short_name": "coelhandia",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "coelhandia",
+  "background_color": "#ffffff",
+  "theme_color": "#fc4d10"
+}
