@@ -446,6 +446,18 @@
     </url>
   
     <url>
+      <loc>https://coelhandia.netlify.app/bloquinhos-de-madeira-c982-c286-c260</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.netlify.app/bastoes-em-madeira</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://coelhandia.netlify.app/acessorios/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -530,13 +542,13 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.netlify.app/pages/sobre-nos</loc>
+      <loc>https://coelhandia.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://coelhandia.netlify.app/pages/termos</loc>
+      <loc>https://coelhandia.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
