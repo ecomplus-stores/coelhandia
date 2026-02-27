@@ -1,5 +1,5 @@
 {
   "css": "",
   "html_head": "",
-  "html_body": ""
+  "html_body": "(function () {\n  var blocked = /[<>\"'&]/;\n\n  function protectInput(el) {\n    el.addEventListener('keydown', function (e) {\n      if (blocked.test(e.key)) e.preventDefault();\n    });\n\n    el.addEventListener('paste', function (e) {\n      e.preventDefault();\n      var text = (e.clipboardData || window.clipboardData).getData('text');\n      var sanitized = text.replace(/[<>\"'&]/g, '');\n      var start = this.selectionStart;\n      var end = this.selectionEnd;\n      this.value = this.value.slice(0, start) + sanitized + this.value.slice(end);\n      this.selectionStart = this.selectionEnd = start + sanitized.length;\n    });\n  }\n\n  function init() {\n    ['address-form-compl', 'address-form-ref'].forEach(function (id) {\n      var el = document.getElementById(id);\n      if (el) protectInput(el);\n    });\n  }\n\n  if (document.readyState === 'loading') {\n    document.addEventListener('DOMContentLoaded', init);\n  } else {\n    init();\n  }\n})();"
 }
