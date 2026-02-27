@@ -1,5 +1,5 @@
 {
   "css": "",
   "html_head": "",
-  "html_body": "<script>(function () {\n  var blocked = /[<>\"'&]/;\n  var ids = ['address-form-compl', 'address-form-ref'];\n\n  document.addEventListener('keydown', function (e) {\n    if (ids.indexOf(e.target.id) !== -1 && blocked.test(e.key)) {\n      e.preventDefault();\n    }\n  });\n\n  document.addEventListener('paste', function (e) {\n    if (ids.indexOf(e.target.id) === -1) return;\n    e.preventDefault();\n    var text = (e.clipboardData || window.clipboardData).getData('text');\n    var sanitized = text.replace(/[<>\"'&]/g, '');\n    var el = e.target;\n    var start = el.selectionStart;\n    var end = el.selectionEnd;\n    el.value = el.value.slice(0, start) + sanitized + el.value.slice(end);\n    el.selectionStart = el.selectionEnd = start + sanitized.length;\n  });\n})();</script>"
+  "html_body": ""
 }
