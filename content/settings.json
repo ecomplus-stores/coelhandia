@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/coelhandia",
   "logo": "/img/uploads/upscalemedia-transformed-1-.png",
   "name": "Coelhândia",
-  "short_name": "coelhandia",
+  "short_name": "Coelhândia",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "/img/uploads/logo-.png",
@@ -19,8 +19,8 @@
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/uploads/logo-.png",
+  "icon": "/img/uploads/upscalemedia-transformed-1-.png",
   "store_id": 51466,
-  "description": "coelhandia",
-  "large_icon": "/img/uploads/logo-.png"
+  "description": "Coelhândia",
+  "large_icon": "/img/uploads/upscalemedia-transformed-1-.png"
 }
