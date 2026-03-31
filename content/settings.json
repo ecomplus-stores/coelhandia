@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/coelhandia",
   "logo": "/img/uploads/logo-coelhandia1.jpg",
-  "name": "Coelhândia",
-  "short_name": "Coelhândia",
+  "name": "Coelhândia | A Maior Loja Online de Produtos para Coelhos",
+  "short_name": "Loja Coelhândia - Especialista em Coelhos e Mini Coelhos",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "/img/uploads/logo-.png",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/design-sem-nome-39-.png",
   "store_id": 51466,
-  "description": "Coelhândia",
+  "description": "Loja especializada em coelhos. Feno de qualidade, petiscos saudáveis e brinquedos educativos para seu pet. Variedade e preço justo com entrega em todo o Brasil.",
   "large_icon": "/img/uploads/design-sem-nome-39-.png"
 }
