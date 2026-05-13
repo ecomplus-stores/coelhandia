@@ -854,13 +854,13 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/contato</loc>
+      <loc>https://coelhandia.com/pages/duvidas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/duvidas</loc>
+      <loc>https://coelhandia.com/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -872,19 +872,25 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://coelhandia.com/pages/familia-coelhouca</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
+      <loc>https://coelhandia.com/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://coelhandia.com/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -897,12 +903,6 @@
   
     <url>
       <loc>https://coelhandia.com/pages/trocas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://coelhandia.com/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -938,13 +938,13 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/admin/index</loc>
+      <loc>https://coelhandia.com/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://coelhandia.com/app/index</loc>
+      <loc>https://coelhandia.com/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
