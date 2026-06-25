@@ -860,25 +860,19 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://coelhandia.com/pages/familia-coelhouca</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/pagamentos</loc>
+      <loc>https://coelhandia.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/privacidade</loc>
+      <loc>https://coelhandia.com/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -891,6 +885,12 @@
   
     <url>
       <loc>https://coelhandia.com/pages/termos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
