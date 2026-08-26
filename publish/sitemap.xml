@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://coelhandia.com/acessorios/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/petiscos/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/brinquedos/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/higiene/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/coelhoucos/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/alimentacao/</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://coelhandia.com/feno-coast-cross</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -818,42 +854,6 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/acessorios/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://coelhandia.com/petiscos/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://coelhandia.com/brinquedos/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://coelhandia.com/higiene/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://coelhandia.com/coelhoucos/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://coelhandia.com/alimentacao/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://coelhandia.com/coelhandia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -872,18 +872,6 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://coelhandia.com/pages/duvidas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://coelhandia.com/pages/familia-coelhouca</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -896,7 +884,19 @@
     </url>
   
     <url>
+      <loc>https://coelhandia.com/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://coelhandia.com/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/pages/duvidas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
