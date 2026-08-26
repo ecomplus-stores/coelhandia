@@ -872,13 +872,13 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/duvidas</loc>
+      <loc>https://coelhandia.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/entrega</loc>
+      <loc>https://coelhandia.com/pages/duvidas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -896,13 +896,13 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/sobre-nos</loc>
+      <loc>https://coelhandia.com/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/privacidade</loc>
+      <loc>https://coelhandia.com/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -956,15 +956,15 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://coelhandia.com/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
