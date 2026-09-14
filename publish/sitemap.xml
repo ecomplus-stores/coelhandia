@@ -872,6 +872,18 @@
     </url>
   
     <url>
+      <loc>https://coelhandia.com/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/pages/familia-coelhouca</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://coelhandia.com/pages/duvidas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -879,12 +891,6 @@
   
     <url>
       <loc>https://coelhandia.com/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://coelhandia.com/pages/familia-coelhouca</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -914,12 +920,6 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://coelhandia.com/posts/esta-loja-e-um-pwa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -938,15 +938,15 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://coelhandia.com/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/search</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
