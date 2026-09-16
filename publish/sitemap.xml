@@ -884,6 +884,12 @@
     </url>
   
     <url>
+      <loc>https://coelhandia.com/pages/duvidas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://coelhandia.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -909,12 +915,6 @@
   
     <url>
       <loc>https://coelhandia.com/pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://coelhandia.com/pages/duvidas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
