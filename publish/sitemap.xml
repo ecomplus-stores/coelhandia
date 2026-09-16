@@ -452,12 +452,6 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pendente-de-coracao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://coelhandia.com/ovni</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -573,12 +567,6 @@
   
     <url>
       <loc>https://coelhandia.com/tunel-3-saidas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://coelhandia.com/toca-pompom</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -830,6 +818,24 @@
     </url>
   
     <url>
+      <loc>https://coelhandia.com/comedouro-cenoura-c512-c119</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/comedouro-lento---cenoura-c515</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/tapete-hortinha-de-cenoura-c998-c591-c252</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://coelhandia.com/acessorios/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -962,12 +968,6 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://coelhandia.com/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -977,6 +977,12 @@
       <loc>https://coelhandia.com/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
