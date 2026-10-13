@@ -788,6 +788,18 @@
     </url>
   
     <url>
+      <loc>https://coelhandia.com/coelhandia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://coelhandia.com/marca/coelhandia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://coelhandia.com/acessorios/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -824,31 +836,19 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/coelhandia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://coelhandia.com/marca/coelhandia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://coelhandia.com/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/duvidas</loc>
+      <loc>https://coelhandia.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/entrega</loc>
+      <loc>https://coelhandia.com/pages/duvidas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -878,13 +878,13 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/trocas</loc>
+      <loc>https://coelhandia.com/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://coelhandia.com/pages/termos</loc>
+      <loc>https://coelhandia.com/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -920,13 +920,13 @@
     </url>
   
     <url>
-      <loc>https://coelhandia.com/admin/index</loc>
+      <loc>https://coelhandia.com/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://coelhandia.com/app/index</loc>
+      <loc>https://coelhandia.com/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
